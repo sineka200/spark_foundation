@@ -1,0 +1,68 @@
+.navbar{
+    background-color:rgba(0, 0, 255, 0.685);
+    color: white;
+
+}
+
+.navitem{
+    text-align: right;
+    color: white;
+   
+    text-decoration: none;
+   
+}
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 30px;
+}
+
+.navitems{
+    padding-left: 50px;
+}
+a{
+    text-align: right;
+    padding-right: 30px;
+}
+.navitem:hover{
+    color: white;
+}
+h1{
+
+    color: black;
+    font-weight: 1000;
+}
+
+.opacity{
+    padding-top: 50px;
+    background-image: url("images/Donation.jpg");
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+.quote{
+    text-align: center;
+    
+}
+.col-lg-5{
+
+    padding: 50px 50px;
+}
+
+.heading{
+    color: black;
+}
+.contactdetails{
+    height: 700px;
+    background: -webkit-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+.img1{
+    margin: 40px;
+    height: 120px;
+    width: 100px;
+}
+.button{
+ text-align: center;
+}
